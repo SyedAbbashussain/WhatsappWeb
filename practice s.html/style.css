@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(207, 205, 205);
+}
+.navbar{
+    background-color: rgb(24, 168, 139);
+    margin: 0px;
+    height: 290px;
+}
+#logo{
+    margin-left: 215px;
+    padding: 60px;
+    display: flex;
+
+}
+#para{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    
+}
+#para2{
+    font-size: 37px;
+
+}
+#ll{
+    font-size: 20px;
+    color: #25D366;
+}
+
+#div1{
+    height:470px ;
+    width: 1095px;
+    padding: 80px;
+    background-color:white;
+    margin: 0 auto;
+    margin-top: -160px;
+    box-shadow: 0 0 20px 7px #999;
+    font-family: sans-serif;
+    display: flex;
+
+}
+#text{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+#b{
+    padding-left: 95px;
+    padding-top: 40px;
+}
+
+#new{
+    height: 650px ;
+    width: 1255px;
+    margin: 0 auto;
+    margin-bottom: 125px;
+    background-image: url(pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 20px 20px 8px #999;
+}
